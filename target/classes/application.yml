@@ -1,0 +1,7 @@
+server:
+  port: 9005
+spring:
+  application:
+    name: iot-system-manager
+logging:
+  server_config: classpath:logback-spring.xml
