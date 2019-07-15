@@ -19,7 +19,7 @@ public class FileSystem {
 
     //文件存放路径
 //    public static final String FILE_PATH = "./filelist";
-    public static final String FILE_PATH = "/opt/tempwork/filelist";
+    public static final String FILE_PATH = "/opt/jars/tempwork/filelist";
 
 
     //存储文件名与文件内容的映射关系
